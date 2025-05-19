@@ -33,6 +33,25 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/GeneralSans-Bold.otf",
+            "./assets/fonts/GeneralSans-BoldItalic.otf",
+            "./assets/fonts/GeneralSans-Extralight.otf",
+            "./assets/fonts/GeneralSans-ExtralightItalic.otf",
+            "./assets/fonts/GeneralSans-Italic.otf",
+            "./assets/fonts/GeneralSans-Light.otf",
+            "./assets/fonts/GeneralSans-LightItalic.otf",
+            "./assets/fonts/GeneralSans-Medium.otf",
+            "./assets/fonts/GeneralSans-MediumItalic.otf",
+            "./assets/fonts/GeneralSans-Regular.otf",
+            "./assets/fonts/GeneralSans-Semibold.otf",
+            "./assets/fonts/GeneralSans-SemiboldItalic.otf"
+          ]
+        }
       ]
     ],
     "experiments": {
